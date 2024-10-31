@@ -28,3 +28,9 @@ UNIX timestamp.
 docker-compose up
 ```
 
+## Стек:
+- FastApi
+- Docker
+- aiohttp
+- PostgreSQL
+
